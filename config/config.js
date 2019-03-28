@@ -1,0 +1,1 @@
+export const baseUrl = 'https://igs59g28wk.execute-api.us-east-1.amazonaws.com/default/api/v1/parse';
